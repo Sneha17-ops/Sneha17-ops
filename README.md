@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=200&section=header&text=Sneha%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60&descAlign=50&descColor=ffffff&descSize=20" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Sneha%20Singh&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%7C%20React%20%7C%20Next.js%20%7C%20Spring%20Boot&descAlignY=58&descAlign=50&descColor=d4b8ff&descSize=16" />
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&width=650&height=50&lines=🚀+Building+Full+Stack+Applications;☕+Java+%26+Spring+Boot+Backend+Developer;⚛️+React+%26+Next.js+Frontend+Developer;🐳+Docker+%7C+AWS+%7C+CI%2FCD+Engineer;💡+Turning+ideas+into+real+products." alt="Typing SVG" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&height=60&lines=🚀+Full+Stack+Developer;☕+Java+%26+Spring+Boot+Engineer;⚛️+React+%26+Next.js+Developer;🐳+Docker+%7C+AWS+%7C+CI%2FCD+Enthusiast;🌐+REST+API+Architect;🧩+DSA+%26+System+Design+Enthusiast;💡+Problem+Solver+%26+Builder;🎯+Open+to+Internships+%26+SDE+Roles" alt="Typing SVG" /></a>
 
 </div>
 
@@ -21,7 +21,7 @@
 
 ---
 
-<img align="right" alt="Coding Animation" width="340" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
+<img align="right" alt="Coding Animation" width="340" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
 ## 🙋‍♀️ About me
 
@@ -81,15 +81,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Sneha17-ops/Optivz">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha17-ops&repo=Optivz&theme=default&hide_border=true&show_owner=true&border_radius=12" />
-</a>
-<a href="https://github.com/Sneha17-ops/Sahaay-Frontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha17-ops&repo=Sahaay-Frontend&theme=default&hide_border=true&show_owner=true&border_radius=12" />
-</a>
-<a href="https://github.com/Sneha17-ops/Wishgrid">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sneha17-ops&repo=Wishgrid&theme=default&hide_border=true&show_owner=true&border_radius=12" />
-</a>
+| 🤖 [Optivz](https://github.com/Sneha17-ops/Optivz) | 🚨 [Sahaay](https://github.com/Sneha17-ops/Sahaay-Frontend) | 🎯 [Wishgrid](https://github.com/Sneha17-ops/Wishgrid) |
+|:---|:---|:---|
+| An **AI-powered Career Coach** that guides users through resume building, job recommendations, and career planning using intelligent suggestions. | An **Emergency Agency Platform** that unifies police, fire, ambulance, and other emergency services into a single, fast-response interface. | A **personal wishlist manager** where users can create, organise, and track their wishlists — all in one place. |
+| ![AI](https://img.shields.io/badge/AI-Powered-6C63FF?style=flat-square) ![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Emergency](https://img.shields.io/badge/Emergency-Platform-E53E3E?style=flat-square) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) | ![Wishlist](https://img.shields.io/badge/Wishlist-Manager-38A169?style=flat-square) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| [View Repo →](https://github.com/Sneha17-ops/Optivz) | [View Repo →](https://github.com/Sneha17-ops/Sahaay-Frontend) | [View Repo →](https://github.com/Sneha17-ops/Wishgrid) |
 
 </div>
 
@@ -124,6 +120,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=120&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=130&section=footer&text=Let's+build+something+great+together!&fontSize=18&fontColor=ffffff&animation=twinkling&fontAlignY=65" />
 
 </div>
