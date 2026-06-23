@@ -1,4 +1,3 @@
-# 👋 Hi, I'm Sneha Singh
 
 <div align="center">
 
@@ -56,13 +55,17 @@
 
 ---
 
-# 🐍 Contribution Snake
+# 🌌 Contribution Galaxy
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Sneha17-ops/Sneha17-ops/output/github-contribution-grid-snake-dark.svg"/>
+<img width="100%" src="https://raw.githubusercontent.com/Sneha17-ops/Sneha17-ops/output/github-contribution-grid-snake-dark.svg"/>
+
+### 🚀 Turning Coffee Into Code Since Day One
 
 </div>
+
+---
 
 ---
 
@@ -105,54 +108,66 @@
 
 # 🚀 Innovation Lab
 
+<div align="center">
+
 ## 🤖 Optivz
 
-AI-Powered Career Coach Platform
+<img src="https://img.shields.io/badge/AI-Career%20Coach-8A2BE2?style=for-the-badge"/>
+
+AI-powered career guidance platform helping users with:
 
 ✨ Resume Analysis  
-✨ Career Guidance  
-✨ AI Recommendations  
-✨ Job Insights & Career Planning
+✨ Career Recommendations  
+✨ Interview Preparation  
+✨ Job Market Insights
 
 **Tech Stack**
 
 `Next.js` `Spring Boot` `PostgreSQL`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Optivz)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-00E5FF?style=for-the-badge&logo=vercel)](YOUR_LIVE_LINK)
+
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Optivz)
 
 ---
 
 ## 🚨 Sahaay
 
-Emergency Response Platform
+<img src="https://img.shields.io/badge/Emergency-Response%20Platform-FF4ECD?style=for-the-badge"/>
 
-✨ Incident Reporting  
-✨ Real-Time Tracking  
-✨ Emergency Coordination  
-✨ Agency Integration
+A unified emergency management system designed for rapid response.
+
+✨ Real-Time Incident Tracking  
+✨ Emergency Agency Coordination  
+✨ Smart Reporting Dashboard  
+✨ Location-Based Alerts
 
 **Tech Stack**
 
 `React` `Node.js` `MongoDB`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Sahaay-Frontend)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Sahaay-Frontend)
 
 ---
 
 ## 🎯 WishGrid
 
-Wishlist Management Application
+<img src="https://img.shields.io/badge/Productivity-Wishlist%20Manager-00FFA3?style=for-the-badge"/>
 
-✨ Wishlist Creation  
-✨ Smart Organization  
-✨ User Dashboard  
-✨ User Authentication
+A modern wishlist platform helping users organize goals and purchases.
+
+✨ Wishlist Management  
+✨ Smart Categorization  
+✨ Personalized Dashboard  
+✨ Secure Authentication
 
 **Tech Stack**
 
 `React` `Express.js` `MongoDB`
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Wishgrid)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github)](https://github.com/Sneha17-ops/Wishgrid)
+
+</div>
 
 ---
 
@@ -198,28 +213,40 @@ Wishlist Management Application
 
 ---
 
-# 🤝 Let's Connect & Collaborate
+---
+
+# 🌟 Let's Build The Future Together
 
 <div align="center">
 
-💼 Open to Software Development Opportunities
+### 💡 Passionate About Building Impactful Software
 
-🚀 Full Stack Development
+🚀 Full Stack Development  
+☕ Java & Spring Boot Engineering  
+⚛️ Modern React & Next.js Applications  
+🐳 DevOps • Docker • CI/CD • AWS  
+🧠 Scalable System Design & Problem Solving
 
-☕ Java & Spring Boot Development
+<br>
 
-⚛️ React & Next.js Applications
+### 📬 Let's Connect
 
-🐳 DevOps, Docker & Cloud Technologies
+<a href="mailto:ruhi52371@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-📩 Email: **ruhi52371@gmail.com**
+<a href="https://www.linkedin.com/in/sneha-singh-01b053294/">
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://portfolio-sneha-weld.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-Explore%20My%20Work-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<br><br>
+
+### ⭐ Always Learning • Always Building • Always Growing
 
 </div>
 
 ---
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient&customColorList=6,12,14,20,24,30&text=Let's%20Build%20Something%20Amazing%20Together&fontSize=25&fontColor=ffffff&animation=twinkling"/>
-
-</div>
